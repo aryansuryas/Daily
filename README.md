@@ -12,7 +12,7 @@ jun 17 : dsaaa
 jun 18 : cs50 no wxtra
 JUN 19 : ddsaa
 jun 20 cs50
-jun 21c  : 
+jun 21c  : nty
 jun 22 : cs50 wewoo
 jun 23 ; 10 problems in lkc
 jun 24 : x
