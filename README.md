@@ -10,7 +10,7 @@ jun 15: started c++ k
 jun 16 : c++ CODEv
 jun 17 : dsaaa
 jun 18 : cs50 no wxtra
-JUN 19 : ddsaa
+JUN 19 : ddsaa nty
 jun 20 cs50
 jun 21c  : nty
 jun 22 : cs50 wewoo
