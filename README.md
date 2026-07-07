@@ -9,7 +9,7 @@ jun 13v;: Fable 5 test
 june 14: claude fable working on projects
 jun 15: started c++ k
 jun 16 : c++ CODEv
-jun 17 : dsaaa
+jun 17 : dsaaa to sid
 jun 18 : cs50 no wxtra
 JUN 19 : ddsaa nty
 jun 20 cs50
