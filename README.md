@@ -7,7 +7,7 @@ jun 11: fable 4.8 anthropic us e nty
 
 jun 13v;: Fable 5 test it
 june 14: claude fable working on projects
-jun 15: started c++ kccav
+jun 15: started c++ kccav also it has onvet
 jun 16 : c++ CODEv
 jun 17 : dsaaa to sid
 jun 18 : cs50 no wxtra
