@@ -5,7 +5,7 @@ june 8 : 20 vid of gate smshers completed of c++
 June 10: realise to do
 jun 11: fable 4.8 anthropic us e nty
 
-jun 13v;: Fable 5 test
+jun 13v;: Fable 5 test it
 june 14: claude fable working on projects
 jun 15: started c++ kccav
 jun 16 : c++ CODEv
