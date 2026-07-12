@@ -15,7 +15,7 @@ JUN 19 : ddsaa nty
 jun 20 cs50
 jun 21c  : ntyhh
 jun 22 : cs50 wewoo
-jun 23 ; 10 problems in lkc
+jun 23 ; 10 problems in hhlkc
 jun 24 : x to di
 jul 2 : deloite australia completed + 27 leetcode problems done shradha kapra c++ functions done
 jun 25 :offiicali 1monthggh
