@@ -22,6 +22,7 @@ jun 24 : x to di
 jul 2 : deloite australia completed + 27 leetcode problems done shradha kapra c++ functions done
 jun 25 :offiicali 1monthggh
 jun 26 : nty to do
+jul 19 : HTML FCC !HOUR PORTFOLIO
 I checked the Bit Manipulation roadmap you uploaded. It has **287 problems**, but for mastering Bit Manipulation for DSA interviews you should not do all. Do these **concept-wise in order**. If you complete these, your bit manipulation foundation will be strong. 
 
 # Phase 1 — Bit Basics (Must Do First)
