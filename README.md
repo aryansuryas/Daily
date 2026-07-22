@@ -4,7 +4,7 @@ june 7 :  nty sunday to it
 june 8 : 20 vid of gate smshers completed of c++nty
 June 10: realise to do      https://recent.design/websites
 jun 11: fable 4.8 anthropic us e nty
-claude using fable 5 aply ing 
+claude using fable 5 aply ing imng f
 jun 13v;: Fable 5 test it
 june 14: claude fable working on projects
 jun 15: started c++ kccav also it has onvet
