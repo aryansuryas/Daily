@@ -8,7 +8,7 @@ claude using fable 5 aply ing imng f
 jun 13v;: Fable 5 test it
 june 14: claude fable working on projects
 jun 15: started c++ kccav also it has onvet
-jun 16 : c++ CODEv to ye
+jun 16 : c++ CODEv to ye to do notion
 jun 17 : dsaaa to sid
 jun 18 : cs50 no wxtra
 JUN 19 : ddsaa nty
