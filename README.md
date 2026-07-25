@@ -11,7 +11,7 @@ jun 15: started c++ kccav also it has onvet
 jun 16 : c++ CODEv to ye to do notion
 jun 17 : dsaaa to sid
 jun 18 : cs50 no wxtrayy
-JUN 19 : ddsaa nty
+JUN 19 : ddsaa ntyfnf
 ok fone
 jun 20 cs50
 july 14 : freellm to do
