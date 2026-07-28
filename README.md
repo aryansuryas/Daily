@@ -1,4 +1,4 @@
-#Safety Repo
+#Safety Repo to save all things
 Jue 6 : dsa c++ basics operators
 june 7 :  nty sunday to it nty nty 
 june 8 : 20 vid of gate smshers completed of c++nty
