@@ -3,7 +3,7 @@ Jue 6 : dsa c++ basics operators
 june 7 :  nty sunday to it nty nty 
 june 8 : 20 vid of gate smshers completed of c++nty
 June 10: realise to do      https://recent.design/websites
-jun 11: fable 4.8 anthropic us e nty
+jun 11: fable 4.8 anthropic us e nty to do
 claude using fable 5 aply ing imng fbbb ip ddr
 jun 13v;: Fable 5 test it to it
 june 14: claude fable working on projects
