@@ -1,3 +1,15 @@
+aug ! : BUSS PASS DONe , leEtcode yt journey start
+
+
+
+
+
+
+
+
+
+
+
 #Safety Repo to save all things
 Jue 6 : dsa c++ basics operators
 june 7 :  nty sunday to it nty nty 
