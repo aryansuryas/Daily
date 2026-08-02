@@ -1,5 +1,5 @@
 aug ! : BUSS PASS DONe , leEtcode yt journey start
-
+aug 2 : stone game
 
 
 
