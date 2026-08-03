@@ -1,7 +1,6 @@
 aug ! : BUSS PASS DONe , leEtcode yt journey start
 aug 2 : stone game
-
-
+aug 3 : deplayed portolio
 
 
 
