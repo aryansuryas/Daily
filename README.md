@@ -8,7 +8,8 @@ aug 7: just a ludo
 aug 8; ntt no dsudevhack nty
 aug 9 ;aug 10 :  nty 
 uag 10 : content rewqards
-aug !! : 
+aug !! : hi to do all things hjudg 
+
 
 
 
