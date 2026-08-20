@@ -9,7 +9,7 @@ aug 8; ntt no dsudevhack nty
 aug 9 ;aug 10 :  nty 
 uag 10 : content rewqards
 aug !! : hi to do all things hjudg 
-aug 12 : leetcode
+aug 12 : leetcodee46p
 AUG 13:" AUG 14 to do so
 AUG 13:"nty
 AUG 14:" AUG 15 inF
