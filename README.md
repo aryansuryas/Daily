@@ -15,7 +15,7 @@ AUG 13:"nty
 AUG 14:" AUG 15 inF
 aug 16 : patternsvg + ml + revise
 Aug 17 : patterns + ml + revise..aug 1y 
-aug 21 ;
+aug 21 ; diya app
 
 
 
