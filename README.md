@@ -6,7 +6,7 @@ aug : 5  : to dothings using fable 5 upgrade
 aug 6 : nty to do
 aug 7: just a ludo
 aug 8; ntt no dsudevhack nty
-aug 9 ;aug 10 :  nty 
+aug 9 ;aug 10 :  nty s
 uag 10 : content rewqards
 aug !! : hi to do all things hjudg 
 aug 12 : leetcodee46p
