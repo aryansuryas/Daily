@@ -17,6 +17,7 @@ aug 16 : patternsvg + ml + revise
 Aug 17 : patterns + ml + revise..aug 1y 
 aug 21 ; diya app
 aug 22 : dsa + c++
+aug 23 : 
 
 
 
