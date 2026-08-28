@@ -10,7 +10,7 @@ aug 9 ;aug 10 :  nty s
 uag 10 : content rewqards
 aug !! : hi to do all things hjudg 
 aug 12 : leetcodee46p
-AUG 13:" AUG 14 to do so
+AUG 13:" AUG 14 to do something 6dtydv
 AUG 13:"nty
 AUG 14:" AUG 15 inF
 aug 16 : patternsvg + ml + revise
