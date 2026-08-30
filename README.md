@@ -1,4 +1,4 @@
-aug ! : BUSS PASS DONe , leEtcode yt journey start
+faug ! : BUSS PASS DONe , leEtcode yt journey start
 aug 2 : stone game
 aug 3 : deplayed portolio ned to do changes did cs50
 aug 4: did letter missing number cs50 and ml 1 video and port upgrade
@@ -8,11 +8,11 @@ aug 7: just a ludo togf
 aug 8; ntt no dsudevhack nty ot do
 aug 9 ;aug 10 :  nty s
 uag 10 : content rewqards
-aug !! : hi to do all things hjudg 
+aug !! : hi to do all things hjudgv 
 aug 12 : leetcodee46p
 AUG 13:" AUG 14 to do something 6dtydv
 AUG 13:"nty
-AUG 14:" AUG 15 inF
+AUG 14:" AUG 15 inFff
 aug 16 : patternsvg + ml + revise
 Aug 17 : patterns + ml + revise..aug 1y 
 aug 21 ; diya app
