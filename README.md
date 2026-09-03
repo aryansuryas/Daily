@@ -12,7 +12,7 @@ aug !! : hi to do all things hdijudgv
 aug 12 : leetcodee46phhhhhe
 AUG 13:" AUG 14 to do something 6dtydv
 AUG 13:"nty
-AUG 14:" AUG 15 inFff
+AUG 14:" AUG 15 inFffgn
 aug 16 : patternsvg + ml + revise
 Aug 17 : patterns + ml + revise..aug 1y 
 aug 21 ; diya app
