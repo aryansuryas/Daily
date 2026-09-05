@@ -389,6 +389,7 @@ XOR mastery:
 137
 
 ---
+a new fresh strategy 
 
 ## Day 3
 
