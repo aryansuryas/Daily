@@ -19,7 +19,7 @@ aug 21 ; diya app
 aug 22 : dsa + c++
 aug 23 : nty
 sel 7 : do meu prepare for three mse
-sep 7 : To the so
+sep 7 : To the so to
 
 
 
