@@ -14,7 +14,7 @@ AUG 13:" AUG 14 to do somethin dlg 6dtydv
 AUG 13:"nty to do with
 AUG 14:" AUG 15 inFffgngcv do fg that
 aug 16 : patternsvg + ml + revise
-Aug 17 : patterns + ml + revise..aug 1y 
+Aug 17 : patterns + ml + revise..a to diug 1y 
 aug 21 ; diya app
 aug 22 : dsa + c++
 aug 23 : nty
