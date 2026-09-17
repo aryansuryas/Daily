@@ -20,7 +20,7 @@ aug 22 : dsa + c++
 aug 23 : nty
 sel 7 : do meu prepare for three mse
 sep 7 : To the so to
-
+ to do all the things
 
 
 #Safety Repo to save all things
