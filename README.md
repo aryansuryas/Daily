@@ -8,7 +8,7 @@ aug 7: just a ludo togfsusjfhfie
 aug 8; ntt no dsudevhack nty ot do
 aug 9 ;aug 10 :  nty sh
 uag 10 : content rewqards
-aug !! : hi to do all things hdi to do yhatajudgv 
+aug !! : hi to do all things hdi to do yhatajudgv to do the same concept 
 aug 12 : leetcodee46phhhhhedhdh
 AUG 13:" AUG 14 to do somethin dldududg 6d cl cctydv to do nty ub jav
 AUG 13:"nty to do with
