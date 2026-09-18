@@ -3,7 +3,7 @@ aug 2 : stone game
 aug 3 : deplayed portolio ned to do changes did cs50
 aug 4: did letter missing number cs50 and ml 1 video and port upgrade
 aug : 5  : to dothings using fable 5 upgrade
-aug 6 : nty to dotyg
+aug 6 : nty to dotyg to do the same thing
 aug 7: just a ludo togfsusjfhfie
 aug 8; ntt no dsudevhack nty ot do
 aug 9 ;aug 10 :  nty sh
