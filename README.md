@@ -1,529 +1,50 @@
-to do the daily trendsysydyghujg6 ka h na ji ki aap ko bhi cujfaug ! : BUSS PASS DONe , leEtcode yt journey start
-aug 2 : stone game
-aug 3 : deplayed portolio ned to do changes did cs50
-aug 4: did letter missing number cs50 and ml 1 video and port upgrade
-aug : 5  : to dothings using fa to do ot needed gpt astra 6ble 5 up daily works don't in thisgrade
-aug 6 : nty to dotyg to do the same thing i  will clean 
-aug 7: just a ludo togfsusjfhfie
-aug 8; ntt no dsudevhack nty ot do
-aug 9 ;aug 10 :  nty sh
-uag 10 : content rewqards to the amin concept
-aug !! : hi to do all things hdi to do yhatajudgv to do the same concept  to this guy tvi g8v7ct
-aug 12 : leetcodee46phhhhhedhdh
-AUG 13:" AUG 14 to do somethin dldududg 6d cl cctydv to do nty ub jav
-AUG 13:"nty to do with
-AUG 14:" AUG 15 inFffgngcv do fg that
-aug 16 : patternsvg + ml + revise
-Aug 17 : patterns + ml + revise..a to diug 1y 
-aug 21 ; diya app
-aug 22 : dsa + c++
-aug 23 : nty
-sel 7 : do meu prepare for three mse
-sep 7 : To the so to
- to do all the things
-
-
-#Safety Repo to save all things
-Jue 6 : dsa c++ basics operators
-june 7 :  nty sunday to it nty nty 
-june 8 : 20 vid of gate smshers completed of c++nty to to
-June 10: realise to do      https://recent.design/websites
-jun 11: fable 4.8 anthropic us e nty to do
-claude using fable 5 aply ing imng fbbb ip ddr
-jun 13v;: Fable 5 test it to it ion the issmphhh
-\
-june 14: claude fable working on projects
-jun 15: started c++ kccav also it has onvet
-jun 16 : c++ CODEv to ye to do notion
-jun 17 : dsaaa to sid
-jun 18 : cs50 no wxtrayy
-JUN 19 : ddsaa ntyfnf
-ok fone
-jun 20 cs50
-july 14 : freellm to do
-jun 21c  : ntyhh
-jun 22 : cs50 wewoo
-jun 23 ; 10 problems in hhlkc
-jun 24 : x to di
-jul 2 : deloite australia completed + 27 leetcode problems done shradha kapra c++ functions done
-jun 25 :offiicali 1monthggh
-jun 26 : nty to do
-jul 19 : HTML FCC !HOUR PORTFOLIO
-I checked the Bit Manipulation roadmap you uploaded. It has **287 problems**, but for mastering Bit Manipulation for DSA interviews you should not do all. Do these **concept-wise in order**. If you complete these, your bit manipulation foundation will be strong. 
-
-# Phase 1 — Bit Basics (Must Do First)
-
-Learn:
-
-* Binary representation
-* AND `&`
-* OR `|`
-* XOR `^`
-* NOT `~`
-* Left shift `<<`
-* Right shift `>>`
-* Checking ith bit
-* Setting ith bit
-* Clearing ith bit
-
-Sep !: ML #) pages Completed
-Problems:
-
-### 1. Counting Set Bits
-
-**LeetCode 191 — Number of 1 Bits**
-Concept:
-
-* Count number of 1s in binary
-
-### 2. Counting Bits for Every Number
-
-**LeetCode 338 — Counting Bits**
-
-Concept:
-
-* DP + bits
-
-### 3. Hamming Distance
-
-**LeetCode 461 — Hamming Distance**
-
-Concept:
-
-* XOR usage
-
-### 4. Total Hamming Distance
-
-**LeetCode 477 — Total Hamming Distance**
-
----
-
-# Phase 2 — XOR Tricks (Very Important)
-
-Master:
-
-```
-a ^ a = 0
-a ^ 0 = a
-```
-
-Used for finding missing/unique numbers.
-
-Problems:
-
-### 5. Single Number
-
-**LeetCode 136 — Single Number**
-
-Most important XOR problem.
-
----
-
-### 6. Missing Number
-
-**LeetCode 268 — Missing Number**
-
-Concept:
-
-XOR from 0 to n.
-
----
-
-### 7. Find the Difference
-
-**LeetCode 389 — Find the Difference**
-
----
-
-### 8. Single Number II
-
-**LeetCode 137 — Single Number II**
-
-Concept:
-
-* Bit counting
-
----
-
-### 9. Single Number III
-
-**LeetCode 260 — Single Number III**
-
-Concept:
-
-* Divide numbers using bits
-
----
-
-# Phase 3 — Binary Numbers Manipulation
-
-Learn:
-
-* Power of 2
-* Power of 4
-* Bit checking
-
-Problems:
-
-### 10. Power of Two
-
-**LeetCode 231**
-
-Trick:
-
-```
-n & (n-1)
-```
-
----
-
-### 11. Power of Four
-
-**LeetCode 342**
-
----
-
-### 12. Number Complement
-
-**LeetCode 476**
-
----
-
-### 13. Binary Number with Alternating Bits
-
-**LeetCode 693**
-
----
-
-### 14. Binary Gap
-
-**LeetCode 868**
-
----
-
-# Phase 4 — Add/Subtract Using Bits
-
-Very important for interviews.
-
-Learn:
-
-```
-sum without +
-```
-
-Problem:
-
-### 15. Sum of Two Integers
-
-**LeetCode 371**
-
-Concept:
-
-XOR = addition without carry
-
-AND = carry
-
-Example:
-
-```
-5 + 3
-
-5 ^ 3
-+
-(5&3)<<1
-```
-
----
-
-# Phase 5 — Bit Masking
-
-Learn:
-
-* Represent subset using bits
-* 2^n subsets
-
-Problems:
-
-### 16. Subsets
-
-**LeetCode 78**
-
-Very important.
-
-Example:
-
-For:
-
-```
-[1,2,3]
-```
-
-mask:
-
-```
-000
-001
-010
-011
-...
-```
-
----
-
-### 17. Subsets II
-
-**LeetCode 90**
-
----
-
-### 18. Letter Case Permutation
-
-**LeetCode 784**
-
----
-
-# Phase 6 — XOR Range / Prefix XOR
-
-### 19. XOR Queries of a Subarray
-
-**LeetCode 1310**
-
-Concept:
-
-Prefix XOR
-
----
-
-### 20. Decode XORed Array
-
-**LeetCode 1720**
-
----
-
-### 21. Decode XORed Permutation
-
-**LeetCode 1734**
-
----
-
-# Phase 7 — Advanced XOR
-
-After finishing above:
-
-### 22. Maximum XOR of Two Numbers
-
-**LeetCode 421**
-
-Concept:
-
-Trie + bits
-
----
-
-### 23. Maximum XOR With an Element From Array
-
-**LeetCode 1707**
-
----
-
-### 24. Maximum XOR for Each Query
-
-**LeetCode 1829**
-
----
-
-# Phase 8 — Bit Manipulation + Array Problems
-
-### 25. Flipping an Image
-
-**LeetCode 832**
-
-Concept:
-
-XOR swapping
-
----
-
-### 26. Sort Integers by Number of 1 Bits
-
-**LeetCode 1356**
-
----
-
-### 27. Minimum Bit Flips to Convert Number
-
-**LeetCode 2220**
-
----
-
-### 28. Minimize XOR
-
-**LeetCode 2429**
-
----
-
-# Your 7-Day Bit Manipulation Plan
-
-## Day 1
-
-Learn:
-
-* operators
-* binary conversion
-* set/unset bits
-
-Solve:
-
-191
-338
-461
-
----
-
-## Day 2
-
-XOR mastery:
-
-136
-268
-389
-137
-
----
-a new fresh strategy 
-
-## Day 3
-
-Power + binary:
-
-231
-342
-476
-693
-868
-
----
-
-## Day 4
-
-Bit tricks:
-
-371
-2220
-1356
-
----
-
-## Day 5
-
-Bit masking:
-
-78
-90
-784
-
----
-
-## Day 6
-
-Prefix XOR:
-
-1310
-1720
-1734
-
----
-
-## Day 7
-
-Advanced:
-
-421
-1707
-1829
-2429
-
----
-
-# Where to Study (Visual Explanation)
-
-For visualization:
-
-### 1. Abdul Bari — Bit Manipulation
-
-Very good for concepts.
-
-YouTube:
-Search:
-
-```
-Abdul Bari Bit Manipulation
-```
-
----
-
-### 2. Take U Forward (Striver)
-
-Best for DSA interview style.
-
-Search:
-
-```
-Striver Bit Manipulation Playlist
-```
-
----
-
-### 3. NeetCode
-
-For LeetCode visualization.
-
-Search:
-
-```
-NeetCode Bit Manipulation
-```
-
----
-
-### 4. LeetCode Visualizer
-
-For understanding dry runs:
-
-```
-visualgo.net for better expeiece
-```
-
----
-
-My recommendation:
-Do not jump to hard XOR problems. Finish:
-
-**191 → 136 → 268 → 231 → 371 → 78 → 421**
-
-These 7 problems build almost the whole bit manipulation foundation.
-nty. top top ans dla
-first all the petals
-
-npx shadcn@latest add @aceternity/3d-card    // 3d caerd
-  
+Here is your disorganized brain-dump cleaned up, categorized, and formatted into three clear sections: your progress journal, your DSA roadmap, and your UI component library.
+1. Dev Journal & Progress Tracker
+I’ve filtered out the keyboard smashes and empty days to highlight your actual progress.
+June: Building the Foundation
+ * C++ & DSA: Started C++ basics and operators. Completed 20 Gate Smashers videos. Practiced DSA.
+ * AI Tools: Tested Fable 4.8/5 and Claude for projects.
+ * CS50: Started and progressed through CS50.
+July: Projects & Problem Solving
+ * DSA: Completed 27 LeetCode problems. Finished C++ functions (Shradha Khapra).
+ * Projects: Built an HTML portfolio via FreeCodeCamp. Completed Deloitte Australia Virtual Experience.
+ * Tools: Explored FreeLLM.
+August: Scaling Up (ML, CS50, & Portfolio)
+ * LeetCode: Solved Stone Game, Missing Number, and pattern problems.
+ * Coursework: Continued CS50 and started Machine Learning (ML) videos.
+ * Projects: Upgraded and deployed portfolio. Worked on the "Diya" app.
+September: Current Focus
+ * Machine Learning: Completed 30 pages of ML content.
+ * Academics: Preparing for MSE (Mid-Semester Exams).
+2. Bit Manipulation Roadmap (287 Problems Master Plan)
+Do not jump to hard XOR problems. Build your foundation in this exact order: 191 → 136 → 268 → 231 → 371 → 78 → 421.
+The 7-Day Execution Plan
+ * Day 1 (Basics): Operators, binary conversion, set/unset bits. Solve: 191, 338, 461.
+ * Day 2 (XOR Mastery): a^a=0, a^0=a. Solve: 136, 268, 389, 137.
+ * Day 3 (Power + Binary): Tricks like n & (n-1). Solve: 231, 342, 476, 693, 868.
+ * Day 4 (Bit Tricks): Addition/Subtraction using bits. Solve: 371, 2220, 1356.
+ * Day 5 (Bit Masking): 2^n subsets. Solve: 78, 90, 784.
+ * Day 6 (Prefix XOR): Solve: 1310, 1720, 1734.
+ * Day 7 (Advanced): Trie + bits. Solve: 421, 1707, 1829, 2429.
+Study Resources:
+ * Abdul Bari: Bit Manipulation (Best for concepts)
+ * Take U Forward (Striver): Bit Manipulation Playlist (Best for interviews)
+ * NeetCode: Bit Manipulation (For LeetCode visualization)
+ * Visualgo.net: For dry run visualizations
+3. UI Component Snippets (Aceternity / Shadcn)
+3D Card
+Installation: npx shadcn@latest add @aceternity/3d-card
 import React from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 
 export function ThreeDCardDemo() {
   return (
     <CardContainer className="inter-var">
-      <CardBody
-        className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
-        <CardItem
-          translateZ="50"
-          className="text-xl font-bold text-neutral-600 dark:text-white">
+      <CardBody className="bg-gray-50 relative group/card dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border">
+        <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
           Make things float in air
         </CardItem>
-        <CardItem
-          as="p"
-          translateZ="60"
-          className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
+        <CardItem as="p" translateZ="60" className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300">
           Hover over this card to unleash the power of CSS perspective
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
@@ -532,21 +53,14 @@ export function ThreeDCardDemo() {
             height="1000"
             width="1000"
             className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
-            alt="thumbnail" />
+            alt="thumbnail" 
+          />
         </CardItem>
         <div className="flex justify-between items-center mt-20">
-          <CardItem
-            translateZ={20}
-            as="a"
-            href="https://twitter.com/mannupaaji"
-            target="__blank"
-            className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white">
+          <CardItem translateZ={20} as="a" href="https://twitter.com/mannupaaji" target="__blank" className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white">
             Try now →
           </CardItem>
-          <CardItem
-            translateZ={20}
-            as="button"
-            className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold">
+          <CardItem translateZ={20} as="button" className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold">
             Sign up
           </CardItem>
         </div>
@@ -555,98 +69,36 @@ export function ThreeDCardDemo() {
   );
 }
 
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-npx shadcn@latest add @aceternity/floating-dock              //social media
-
+Floating Dock (Social Media)
+Installation: npx shadcn@latest add @aceternity/floating-dock
 import React from "react";
 import { FloatingDock } from "@/components/ui/floating-dock";
-import {
-  IconBrandGithub,
-  IconBrandX,
-  IconExchange,
-  IconHome,
-  IconNewSection,
-  IconTerminal2,
-} from "@tabler/icons-react";
+import { IconBrandGithub, IconBrandX, IconExchange, IconHome, IconNewSection, IconTerminal2 } from "@tabler/icons-react";
 
 export function FloatingDockDemo() {
   const links = [
-    {
-      title: "Home",
-      icon: (
-        <IconHome className="h-full w-full text-neutral-500 dark:text-neutral-300" />
-      ),
-      href: "#",
-    },
-
-    {
-      title: "Products",
-      icon: (
-        <IconTerminal2 className="h-full w-full text-neutral-500 dark:text-neutral-300" />
-      ),
-      href: "#",
-    },
-    {
-      title: "Components",
-      icon: (
-        <IconNewSection className="h-full w-full text-neutral-500 dark:text-neutral-300" />
-      ),
-      href: "#",
-    },
-    {
-      title: "Aceternity UI",
-      icon: (
-        <img
-          src="https://assets.aceternity.com/logo-dark.png"
-          width={20}
-          height={20}
-          alt="Aceternity Logo" />
-      ),
-      href: "#",
-    },
-    {
-      title: "Changelog",
-      icon: (
-        <IconExchange className="h-full w-full text-neutral-500 dark:text-neutral-300" />
-      ),
-      href: "#",
-    },
-
-    {
-      title: "Twitter",
-      icon: (
-        <IconBrandX className="h-full w-full text-neutral-500 dark:text-neutral-300" />
-      ),
-      href: "#",
-    },
-    {
-      title: "GitHub",
-      icon: (
-        <IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />
-      ),
-      href: "#",
-    },
+    { title: "Home", icon: <IconHome className="h-full w-full text-neutral-500 dark:text-neutral-300" />, href: "#" },
+    { title: "Products", icon: <IconTerminal2 className="h-full w-full text-neutral-500 dark:text-neutral-300" />, href: "#" },
+    { title: "Components", icon: <IconNewSection className="h-full w-full text-neutral-500 dark:text-neutral-300" />, href: "#" },
+    { title: "Aceternity UI", icon: <img src="https://assets.aceternity.com/logo-dark.png" width={20} height={20} alt="Aceternity Logo" />, href: "#" },
+    { title: "Changelog", icon: <IconExchange className="h-full w-full text-neutral-500 dark:text-neutral-300" />, href: "#" },
+    { title: "Twitter", icon: <IconBrandX className="h-full w-full text-neutral-500 dark:text-neutral-300" />, href: "#" },
+    { title: "GitHub", icon: <IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />, href: "#" },
   ];
   return (
     <div className="flex items-center justify-center h-[35rem] w-full">
-      <FloatingDock
-        // only for demo, remove for production
-        mobileClassName="translate-y-20"
-        items={links} />
+      <FloatingDock mobileClassName="translate-y-20" items={links} />
     </div>
   );
 }
-//send butioon............................................................//////////////////////////////.//////////////////////////////////////////
-npx shadcn@latest add @aceternity/stateful-button
 
+Stateful Button
+Installation: npx shadcn@latest add @aceternity/stateful-button
 "use client";
-
 import React from "react";
 import { Button } from "@/components/ui/stateful-button";
 
 export function StatefulButtonDemo() {
-  // dummy API call
   const handleClick = () => {
     return new Promise((resolve) => {
       setTimeout(resolve, 4000);
@@ -658,22 +110,23 @@ export function StatefulButtonDemo() {
     </div>
   );
 }
-/////cadr 
+
+Custom Portfolio Overlay Card
 import React, { useState } from "react";
 
 interface PortfolioCardProps {
   title: string;
   description: string;
-  frontImage: string;            // Front cover/preview image
-  techStackBgImage: string;      // Background image showing components/tools used
-  techStack: string[];          // List of tech tags displayed at the bottom
+  frontImage: string;
+  techStackBgImage: string;
+  techStack: string[];
 }
 
 export const PortfolioOverlayCard = ({
   title = "Project Title",
   description = "A short description of what this project does and the main features built into it.",
   frontImage = "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop", 
-  techStackBgImage = "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop", // <-- IMAGE SHOWING YOUR COMPONENTS/TECH LIST
+  techStackBgImage = "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop", 
   techStack = ["React", "Next.js", "Tailwind CSS", "TypeScript", "Framer Motion", "Node.js"],
 }: Partial<PortfolioCardProps>) => {
   const [isHovered, setIsHovered] = useState(false);
@@ -684,7 +137,7 @@ export const PortfolioOverlayCard = ({
       onMouseLeave={() => setIsHovered(false)}
       className="group relative h-[450px] w-full max-w-sm overflow-hidden rounded-2xl border border-neutral-800 bg-neutral-950 p-6 shadow-2xl transition-all duration-500 hover:border-neutral-700"
     >
-      {/* 1. FRONT IMAGE (Fades & blurs on hover) */}
+      {/* Front Image */}
       <div className="absolute inset-0 z-0 overflow-hidden">
         <img
           src={frontImage}
@@ -695,45 +148,33 @@ export const PortfolioOverlayCard = ({
         />
       </div>
 
-      {/* 2. BACKGROUND TECH STACK IMAGE (Reveals on Hover) */}
+      {/* Background Tech Stack Image */}
       <div
         className={`absolute inset-0 z-0 overflow-hidden transition-all duration-700 ease-out ${
           isHovered ? "scale-100 opacity-50" : "scale-110 opacity-0"
         }`}
       >
-        <img
-          src={techStackBgImage}
-          alt={`${title} Tech Stack`}
-          className="h-full w-full object-cover object-center"
-        />
+        <img src={techStackBgImage} alt={`${title} Tech Stack`} className="h-full w-full object-cover object-center" />
       </div>
 
-      {/* Dark Overlay Gradient for contrast */}
       <div className="absolute inset-0 z-10 bg-gradient-to-t from-neutral-950 via-neutral-950/70 to-neutral-950/20" />
 
-      {/* 3. CARD CONTENT */}
+      {/* Card Content */}
       <div className="relative z-20 flex h-full flex-col justify-end">
-        {/* Title & Description */}
         <div className="transform transition-transform duration-500 group-hover:-translate-y-2">
           <h3 className="text-2xl font-bold text-white tracking-wide">{title}</h3>
-          <p className="mt-2 text-sm text-neutral-300 line-clamp-2 leading-relaxed">
-            {description}
-          </p>
+          <p className="mt-2 text-sm text-neutral-300 line-clamp-2 leading-relaxed">{description}</p>
         </div>
 
-        {/* 4. TECH STACK BADGES (Revealed / Highlighted on Hover) */}
+        {/* Tech Stack Badges */}
         <div className="mt-4 border-t border-neutral-800/80 pt-4 transition-all duration-500">
-          <p className="text-xs font-semibold uppercase tracking-wider text-neutral-400 mb-2">
-            Components & Tech Used
-          </p>
+          <p className="text-xs font-semibold uppercase tracking-wider text-neutral-400 mb-2">Components & Tech Used</p>
           <div className="flex flex-wrap gap-1.5">
             {techStack.map((tech, index) => (
               <span
                 key={index}
                 className={`rounded-md border px-2.5 py-1 text-xs font-medium backdrop-blur-md transition-all duration-300 ${
-                  isHovered
-                    ? "border-neutral-600 bg-neutral-900/90 text-white shadow-sm"
-                    : "border-neutral-800/60 bg-neutral-900/40 text-neutral-400"
+                  isHovered ? "border-neutral-600 bg-neutral-900/90 text-white shadow-sm" : "border-neutral-800/60 bg-neutral-900/40 text-neutral-400"
                 }`}
               >
                 {tech}
@@ -746,18 +187,17 @@ export const PortfolioOverlayCard = ({
   );
 };
 
-
-typescript 
 export default function PortfolioGrid() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-black p-8">
       <PortfolioOverlayCard
         title="Design System & UI Library"
         description="A full suite of reusable UI components built for speed and high-performance applications."
-        frontImage="/images/project-cover.jpg"          // <-- Path to your front cover image
-        techStackBgImage="/images/components-list.png"  // <-- Path to your image showing all components/tools
+        frontImage="/images/project-cover.jpg"          
+        techStackBgImage="/images/components-list.png"  
         techStack={["Shadcn UI", "Tailwind CSS", "Radix Primitives", "Framer Motion", "Storybook"]}
       />
     </div>
   );
 }
+
