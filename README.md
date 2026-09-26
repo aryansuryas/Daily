@@ -7,7 +7,7 @@ June: Building the Foundation
  * CS50: Started and progressed through CS50.
 July: Projects & Problem Solving
  * DSA: Completed 27 LeetCode problems. Finished C++ functions (Shradha Khapra).
- * Projects: Built an HTML portfolio via FreeCodeCamp. Completed Deloitte Australia Virtual Experience.
+ * Projects: Built an HTML p to du the shanortfolio via FreeCodeCamp. Completed Deloitte Australia Virtual Experience.
  * Tools: Explored FreeLLM.
 August: Scaling Up (ML, CS50, & Portfolio)
  * LeetCode: Solved Stone Game, Missing Number, and pattern problems.
