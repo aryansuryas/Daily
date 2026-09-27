@@ -17,7 +17,7 @@ September: Current Focus
  * Machine Learning: Completed 30 pages of ML content.
  * Academics: Preparing for MSE (Mid-Semester Exams).
 2. Bit Manipulation Roadmap (287 Problems Master Plan)
-Do not jump to hard XOR problems. Build your foundation in this exact order: 191 → 136 → 268 → 231 → 371 → 78 → 421.
+Do not jump to hard XOR problems. Build your foundation in this exact order: 191 → 136 → 268 → 231 → 371 →  to do this problem reuwiue78 → 421.
 The 7-Day Execution Plan
  * Day 1 (Basics): Operators, binary conversion, set/unset bits. Solve: 191, 338, 461.
  * Day 2 (XOR Mastery): a^a=0, a^0=a. Solve: 136, 268, 389, 137.
