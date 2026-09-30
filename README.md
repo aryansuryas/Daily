@@ -2,7 +2,7 @@ Here is your disorganized brain-dump cleaned up, categorized, and formatted into
 1. Dev Journal & Progress Tracker
 I’ve filtered out the keyboard smashes and empty days to highlight your actual progress.
 June: Building the Foundation
- * C++ & DSA: Started C++ basics and operators. Completed 20 Gate Smashers videos. Practiced DSA.
+ * C++ & DSA: Started C++ basics and operators. Completed 20 Gate Smashers videos. Practiced DSA. winter car
  * AI Tools: Tested Fable 4.8/5 and Claude for projects. u didn't ntyv the to build from October full consiestent nain wvrvsh nenwnyifh tib propera rfor rhe exn
  * CS50: Started and progressed through CS50.
 July: Projects & Problem Solving
