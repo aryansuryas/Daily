@@ -5,7 +5,8 @@ June: Building the Foundation
  * C++ & DSA: Started C++ basics and operators. Completed 20 Gate Smashers videos. Practiced DSA. winter car
  * AI Tools: Tested Fable 4.8/5 and Claude for projects. u didn't ntyv the to build from October full consiestent nain wvrvsh nenwnyifh tib propera rfor rhe exn
  * CS50: Started and progressed through CS50.
-July: Projects & Problem Solving
+July: Projects & Problem Solving using all te things
+
  * DSA: Completed 27 LeetCode problems. Finished C++ functions (Shradha Khapra).
  * Projects: Built an HTML p to du the shanortfolio via FreeCodeCamp. Completed Deloitte Australia Virtual Experience.
  * Tools: Explored FreeLLM.
