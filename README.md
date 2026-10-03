@@ -5,7 +5,7 @@
 | Date | Day | Content / What I Did |
 |---|---|---|
 | 01/10/2026 | Day 1 | |
-| 02/10/2026 | Day 2 | |
+| 02/10/2026 | Day 2 |CS50 Week 8 , HTML completed |
 | 03/10/2026 | Day 3 |Completed HTML CSS |
 | 04/10/2026 | Day 4 | |
 | 05/10/2026 | Day 5 | |
